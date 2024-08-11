@@ -1,0 +1,24 @@
+// github repo : https://github.com/Minskoleopc/typescript/tree/main/src
+
+static keyword : when using static keyword before properties or method that time you can 
+                 access properties and method on class name doesn't create obj.
+
+
+// SingleTon pattern  :  In this pattern you can create only single obj or doesn't create sec obj.
+
+
+
+// we cannot use static method and properties inside non-static things with this 
+// if you want to call out you can callout with this keyword
+// Interface cannot be assign a value , they all are abstract
+// Interface is always related with object
+// Interface can only have read only property
+// Interface can be split
+
+
+
+// private constructor 
+// instance variable which is of type class
+// write a static method to check same instance value 
+//(undefined)
+// call the static method on class name
